@@ -24,5 +24,6 @@ public class Bubblee_Sorting
   // Printing the Sorted Food list
   for(int i=0;i<n;i++)
    System.out.println(a[i]);
+  sc.close();
  }
 }
